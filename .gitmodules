@@ -1,0 +1,4 @@
+[submodule "submodule-sub"]
+	path = submodule-sub
+	url = git@github.com:gamggi/submodule-sub.git
+	branch = main
